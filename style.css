@@ -17,22 +17,21 @@ body {
 
 img {
     border-radius: 150px;
-    width:150px;
+    width:8em;
 }
 
 .imported-format{
     font-family: "Bungee Spice", sans-serif;
     font-weight: 600;
     font-style: normal;
-    font-size: 25px;
-    margin: 10px;
+    font-size: 100%;
+    margin: 5px;
   }
   
   .text {
-    font-size: 20px;
+    font-size: 100%;
     font-family: "Stylish", serif;
     font-weight:bolder;
-    line-height: 30.5px;
     font-style: normal;
     color: greenyellow;
   }
