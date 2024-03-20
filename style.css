@@ -5,7 +5,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    
+    width: 100%;
 }
 
 #page {
@@ -17,27 +17,22 @@ body {
 
 img {
     border-radius: 150px;
-    margin-bottom: 5px;
     width:150px;
 }
 
-.coloured-text {
+.imported-format{
     font-family: "Bungee Spice", sans-serif;
     font-weight: 600;
     font-style: normal;
-    font-size: 16px;
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 5px;
+    font-size: 25px;
+    margin: 10px;
   }
   
   .text {
     font-size: 20px;
     font-family: "Stylish", serif;
     font-weight:bolder;
-    line-height: 40px;
+    line-height: 30.5px;
     font-style: normal;
-    padding: 20px;
-    margin-top: 1px;
     color: greenyellow;
   }
